@@ -16,19 +16,15 @@ Construir uma fonte capaz de transformar corrente alternada de tensão 127 volts
 ## Componentes
 | **Quantidade** | **Item **         | **Preço**    |
 |----------------|-------------------|--------------|
-| 4              | Diodo 1N4001      | R$= 0,75     |
-| 1              | Capacitor 560uF   | R$=1,35      |
-| 1              | Led Vermelho 5mm  | R$=0,25      |
-| 2              | Resistor 1k ohm   | R$=0,16      |
-| 1              | Resistor 120 ohm  | R$=0,08      |
-| 1              | Resistor 2.2k     | R$=0,10      |
-| 1              | Potenciômetro 5k  | R$=1,15      |
-| 1              | Diodo Zener (13v) | R$=0,21      |
-| 1              | Transistor NPN    | R$=0,18      |
-| 1              | Transformador     | R$=22,99     |
-| 1              | Fusível           | R$=0,20      |
-| 1              | Varistor          | R$=0,72      |
-| **Total:**     |                   | **R$=28,14** |
+| 4              | Diodo 1N4001      | R$= 0,80     |
+| 1              | Capacitor 470uF   | R$=1,40      |
+| 1              | Resistor 1k ohm   | R$=0,20      |
+| 1              | Resistor 120 ohm  | R$=0,09      |
+| 2              | Resistor 2.2k     | R$=0,14      |
+| 1              | Potenciômetro 5k  | R$=2,21      |
+| 1              | Diodo Zener (13v) | R$=0,14      |
+| 1              | TransistorNpnBc548| R$=0,30      |
+| **Total:**     |                   | **R$=5,28** |
 
 ## Funcionamento da Fonte
 (INSERIR AQUI FOTOS DA PROTOBOARD POR VÁRIOS ÂNGULOS)
