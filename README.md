@@ -2,13 +2,15 @@
 
 ## Projeto do circuito
 ### No Falstad
-<b>![alt text][img/foto_circuito_falstad]</b>
-<b>[Source](https://tinyurl.com/23wuzbmm  "Circuito no Falstad")</b>
+![alt text][img/foto_circuito_falstad]
+
+[Source](https://tinyurl.com/23wuzbmm  "Circuito no Falstad")
 
 
 ### No PCB
-<b>(INSERIR AQUI FOTO DO ESQUEMÁTICO)</b>
-<b>(INSERIR AQUI LINK DO ESQUEMÁTICO)</b>
+(INSERIR AQUI FOTO DO ESQUEMÁTICO)
+
+(INSERIR AQUI LINK DO ESQUEMÁTICO)
 
 ## Componentes
 | **Quantidade** | **Item **         | **Preço**    |
@@ -24,10 +26,13 @@
 | **Total:**     |                   | **R$=5,28** |
 
 ## Funcionamento da Fonte
-<b>(INSERIR AQUI FOTOS DA PROTOBOARD POR VÁRIOS ÂNGULOS)</b>
-<b>(INSERIR AQUI VIDEO DA FONTE FUNCIONANDO)</b>
+(INSERIR AQUI FOTOS DA PROTOBOARD POR VÁRIOS ÂNGULOS)
+
+(INSERIR AQUI VIDEO DA FONTE FUNCIONANDO)
 
 ## Creditos
-<b>Pedro Henrique Cavalcante Lima [Git](https://github.com/CallofSilverwing "Git do Pedro")</b>
-<b>Jean Patrick Ngandu Mamani [Git](https://tinyurl.com/23wuzbmm  "Git do Jean")</b>
-<b>Thales Sena de Queiroz [Git](https://github.com/TaresuSenu "Git do Thales")</b>
+Pedro Henrique Cavalcante Lima [Git](https://github.com/CallofSilverwing "Git do Pedro")
+
+Jean Patrick Ngandu Mamani [Git](https://tinyurl.com/23wuzbmm  "Git do Jean")
+
+Thales Sena de Queiroz [Git](https://github.com/TaresuSenu "Git do Thales")
