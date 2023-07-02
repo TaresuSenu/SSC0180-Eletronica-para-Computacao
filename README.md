@@ -2,7 +2,7 @@
 
 ## Projeto do circuito
 ### No Falstad
-![alt text][img/foto_circuito_falstad]
+![alt text][img/foto_circuito_falstad.png]
 
 [Source](https://tinyurl.com/23wuzbmm  "Circuito no Falstad")
 
@@ -31,8 +31,8 @@
 (INSERIR AQUI VIDEO DA FONTE FUNCIONANDO)
 
 ## Creditos
-Pedro Henrique Cavalcante Lima [Git](https://github.com/CallofSilverwing "Git do Pedro")
+Pedro Henrique Cavalcante Lima [(Git)](https://github.com/CallofSilverwing "Git do Pedro")
 
-Jean Patrick Ngandu Mamani [Git](https://tinyurl.com/23wuzbmm  "Git do Jean")
+Jean Patrick Ngandu Mamani [(Git)](https://tinyurl.com/23wuzbmm  "Git do Jean")
 
-Thales Sena de Queiroz [Git](https://github.com/TaresuSenu "Git do Thales")
+Thales Sena de Queiroz [(Git)](https://github.com/TaresuSenu "Git do Thales")
