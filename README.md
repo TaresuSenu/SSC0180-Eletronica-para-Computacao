@@ -2,7 +2,7 @@
 
 ## Projeto do circuito
 ### No Falstad
-![alt text][img/foto_circuito_falstad.png]
+![alt text](img/foto_circuito_falstad.png)
 
 [Source](https://tinyurl.com/23wuzbmm  "Circuito no Falstad")
 
