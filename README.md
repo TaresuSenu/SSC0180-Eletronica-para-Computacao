@@ -31,7 +31,6 @@ Construir uma fonte capaz de transformar corrente alternada de tensão 127 volts
 (INSERIR AQUI VIDEO DA FONTE FUNCIONANDO)
 
 ## Creditos
-Pedro Henrique Cavalcante Lima (Git)
-
-[Jean Patrick Ngandu Mamani](https://github.com/JeanJPNM)
-Thales Sena de Queiroz (Git)
+- Pedro Henrique Cavalcante Lima (Git)
+- [Jean Patrick Ngandu Mamani](https://github.com/JeanJPNM)
+- Thales Sena de Queiroz (Git)
