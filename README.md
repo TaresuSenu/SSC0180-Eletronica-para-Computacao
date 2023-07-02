@@ -14,7 +14,7 @@ Construir uma fonte capaz de transformar corrente alternada de tensão 127 volts
 
 
 ## Componentes
-| **Quantidade** | **Item **         | **Preço**    |
+| **Quantidade** | **Item**          | **Preço**    |
 |----------------|-------------------|--------------|
 | 4              | Diodo 1N4001      | R$= 0,80     |
 | 1              | Capacitor 470uF   | R$=1,40      |
