@@ -21,9 +21,9 @@
 | 2              | Resistor 120 ohm  | R$=0,18      |
 | 2              | Resistor 2.2k     | R$=0,14      |
 | 1              | Potenciômetro 5k  | R$=2,28      |
-| 1              | Diodo Zener (13v) | R$=0,14      |
-| 1              | TransistorNpnBc548| R$=0,30      |
-| **Total:**     |                   | **R$=5,37**  |
+| 1              | Diodo Zener (13v) | R$=0,50      |
+| 1              | Transistor 2N3904 | R$=1,60      |
+| **Total:**     |                   | **R$=7,03**  |
 
 ## Funcionamento da Fonte
 (INSERIR AQUI FOTOS DA PROTOBOARD POR VÁRIOS ÂNGULOS)
