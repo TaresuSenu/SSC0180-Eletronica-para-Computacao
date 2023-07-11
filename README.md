@@ -2,15 +2,15 @@
 
 ## Projeto do circuito
 ### No Falstad
-![alt text](img/foto_circuito_falstad.png)
+![alt text](img/image.png)
 
 [Source](https://tinyurl.com/23wuzbmm  "Circuito no Falstad")
 
 ### No PCB
-![alt text](img/imagem_circuito_PCB.png)
+![alt text](img/imagem_circuito_eagle.jpeg)
 
 ### No Eagle
-![alt text](img/imagem_circuito_eagle.png)
+![alt text](img/imagem_circuito_PCB.jpeg)
 
 ## Componentes
 | **Quantidade** | **Item **         | **Preço**    |
