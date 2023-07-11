@@ -6,11 +6,11 @@
 
 [Source](https://tinyurl.com/23wuzbmm  "Circuito no Falstad")
 
-
 ### No PCB
-(INSERIR AQUI FOTO DO ESQUEMÁTICO)
+![alt text](img/imagem_circuito_PCB.png)
 
-(INSERIR AQUI LINK DO ESQUEMÁTICO)
+### No Eagle
+![alt text](img/imagem_circuito_eagle.png)
 
 ## Componentes
 | **Quantidade** | **Item **         | **Preço**    |
@@ -31,8 +31,8 @@
 (INSERIR AQUI VIDEO DA FONTE FUNCIONANDO)
 
 ## Creditos
-Pedro Henrique Cavalcante Lima [(Git)](https://github.com/CallofSilverwing "Git do Pedro")
+Pedro Henrique Cavalcante Lima [(Github)](https://github.com/CallofSilverwing)
 
-Jean Patrick Ngandu Mamani [(Git)](https://tinyurl.com/23wuzbmm  "Git do Jean")
+Jean Patrick Ngandu Mamani [(Github)](https://github.com/JeanJPNM)
 
-Thales Sena de Queiroz [(Git)](https://github.com/TaresuSenu "Git do Thales")
+Thales Sena de Queiroz [(Github)](https://github.com/TaresuSenu)
