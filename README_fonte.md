@@ -4,7 +4,7 @@
 ### No Falstad
 ![alt text](img/image.png)
 
-[Source](https://tinyurl.com/23wuzbmm  "Circuito no Falstad")
+[Source](https://tinyurl.com/28r93ss3  "Circuito no Falstad")
 
 ### No PCB
 ![alt text](img/imagem_circuito_eagle.jpeg)
