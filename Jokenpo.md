@@ -2,7 +2,7 @@
 
 ## Representação do Circuito
 ### Software
-[Code](code/programa_eletronica)
+[Code](code/programa_eletronica.cpp)
 
 ### Conexões com o Arduino
 ![alt text](img/circuito_montado.jpeg)
