@@ -11,7 +11,7 @@
 ![alt text](img/image1.png)
 
 ## Funcionamento do Circuito
-(INSERIR AQUI VIDEO DO CIRCUITO FUNCIONANDO)
+[Video](https://drive.google.com/file/d/1tdzCcuPE3OAWhR-oipB0QpGcustWnh78/view)
 
 ## Creditos
 Pedro Henrique Cavalcante Lima [(Github)](https://github.com/CallofSilverwing)
