@@ -26,9 +26,7 @@
 | **Total:**     |                   | **R$=7,36**  |
 
 ## Funcionamento da Fonte
-(INSERIR AQUI FOTOS DA PROTOBOARD POR VÁRIOS ÂNGULOS)
-
-(INSERIR AQUI VIDEO DA FONTE FUNCIONANDO)
+[(Video)](https://drive.google.com/file/d/193sPUEtSzviEUPhtPoBulQr0Xd0gNCkq/view?usp=sharing)
 
 ## Creditos
 Pedro Henrique Cavalcante Lima [(Github)](https://github.com/CallofSilverwing)
