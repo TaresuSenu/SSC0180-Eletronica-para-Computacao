@@ -27,7 +27,7 @@
 
 ## Funcionamento da Fonte
 [(Video)](https://drive.google.com/file/d/193sPUEtSzviEUPhtPoBulQr0Xd0gNCkq/view?usp=sharing)
-
+No final a resistencia de 2000 se tornou uma de 1107,04 pois foi conectado um resistor 120 paralelo a um dos de 1k ficando em serie com o outro de 1k, pois com 2000 a ddp estava chegando somente ate 3.2V e com essa mudança chegou até 1.9. Gostaria de agradecer ao Grande Mestre Simões.
 ## Creditos
 Pedro Henrique Cavalcante Lima [(Github)](https://github.com/CallofSilverwing)
 
